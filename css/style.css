@@ -194,7 +194,7 @@
     font-size: 25px;
     font-family:'Times New Roman', Times, serif;
     font-weight: bolder;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid gray;
     
   }
   .news-pic{
@@ -203,5 +203,8 @@
   .newspaper{
     width: 320px;
     background-color: aqua;
+    float: right;
+  }
+  .rightnews{
     float: right;
   }
